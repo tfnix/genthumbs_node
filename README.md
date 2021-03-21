@@ -50,7 +50,7 @@ https://sharp.pixelplumbing.com/performance
 <br>
 
 
-**Referencias:**
+**Referencias:**<br>
 https://sharp.pixelplumbing.com/api-output<br>
 
 Vlw.
