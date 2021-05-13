@@ -4,7 +4,7 @@
 *Exemplo Basico de geracao de thumbails com Node e Sharpjs*
 
 
-```
+```js
 const axios = require('axios');
 const path = require('path');
 const sharp = require('sharp');
@@ -12,7 +12,7 @@ const sharp = require('sharp');
 ```
 
 A funcao rszImags()
-```
+```js
     rszImags: async (URL) => {
 
       // Le o endpoint
@@ -34,7 +34,7 @@ A funcao rszImags()
 Aqui o resultado da compressao
 <br><br>
 
-```
+```bash
 /download$ !ls
 
 ls 34* -lh
